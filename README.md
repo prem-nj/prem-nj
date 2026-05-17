@@ -1,97 +1,140 @@
-<!-- 🌌 Profile README for prem-nj | Auto-synced -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&height=100&lines=Hello+World.+I'm+Prem+Jadhav.;Building+clean+code+&+scalable+systems.;🌍+Open+to+collab+&+learning." alt="Typing Animation"/>
+<div align="center">
+
+# Hey, I'm Prem Jadhav 👋
+### Developer • Problem Solver • Lifelong Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00FF7F&center=true&vCenter=true&width=850&lines=Building+clean+code+and+scalable+systems;Solving+problems+on+LeetCode;Open+to+collaboration+and+learning" alt="Typing animation" />
+
+<p>
+  <a href="https://komarev.com/ghpvc/?username=prem-nj&label=Profile%20views&color=00FF7F&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=prem-nj&label=Profile%20views&color=00FF7F&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/prem-nj?tab=followers"><img src="https://img.shields.io/github/followers/prem-nj?logo=github&style=for-the-badge&color=00FF7F" alt="GitHub followers" /></a>
+  <a href="https://github.com/prem-nj?tab=repositories"><img src="https://img.shields.io/github/stars/prem-nj?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00FF7F" alt="Total stars" /></a>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Status-⚡️+Available-green?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Currently-🚀+Learning+&+Building-blue?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Timezone-🌐+IST+(UTC+5:30)-purple?style=for-the-badge"/></a>
-</p>
+</div>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-## 🧠 About Me
-I'm **Prem Jadhav**, a passionate developer who loves turning ideas into clean, efficient code.  
-I focus on writing maintainable software, solving algorithmic challenges, and exploring new technologies.
+## 🚀 About Me
+- 🔭 Currently building **modern web applications** and solving DSA problems
+- 🌱 Learning more about **system design, backend architectures, and best practices**
+- 👯 Open to collaborating on **open-source, full-stack, and community projects**
+- 💬 Ask me about **JavaScript, React, Node.js, Python, and problem-solving**
+- ⚡ Fun fact: I love turning complex problems into simple solutions
 
-📍 Based in: `India`  
-🎓 Current Focus: `Problem Solving` • `Web Development` • `System Design Basics`  
-🔭 Currently exploring: `DSA` • `React/Next.js` • `Backend architectures` • `Open Source`  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/prem-navnath-jadhav/) • [X](https://x.com/PremNavnat56636) • [LeetCode](https://leetcode.com/u/premjadhav8/)
-
----
-
-## 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,github,docker,linux,vscode,leetcode&theme=dark&perline=8" />
-</p>
-
-| Category | Technologies |
-|----------|-------------|
-| 💻 Languages | `JavaScript` `TypeScript` `Python` `Java` `C++` |
-| 🌐 Frontend | `React` `Next.js` `TailwindCSS` `HTML5/CSS3` |
-| ⚙️ Backend | `Node.js` `Express` `REST APIs` `MongoDB` |
-| 🗄️ Data & DevOps | `Git/GitHub` `Docker` `Linux` `Postman` |
-| 🧠 Problem Solving | `LeetCode` `GeeksforGeeks` `DSA` `System Design` |
-
-> 💡 *Always learning. Stack updated quarterly.*
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-## 🐍 Snake Animation
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prem-nj/prem-nj/output/snake.svg" alt="Snake Animation"/>
+  <a href="https://www.linkedin.com/in/prem-navnath-jadhav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/PremNavnat56636" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://leetcode.com/u/premjadhav8/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:premnavnathjadhav@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-## 📊 Real-Time GitHub Stats
+## 🧰 Tech Stack
 
+### Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prem-nj&show_icons=true&theme=radical&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-nj&theme=radical&hide_border=true&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" alt="Streak Stats" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css" />
 </p>
 
+### Frameworks & Libraries
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-nj&layout=compact&theme=radical&hide_border=true&title_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&langs_count=8" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-nj&theme=react-dark&hide_border=true&color=00FF7F&title_color=00FF7F&line_color=00FF7F&point_color=FFFFFF&area=true" alt="Activity Graph" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
 </p>
 
+### Databases & Cloud
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prem-nj&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,aws,docker" />
 </p>
 
-<details>
-  <summary><h3>📈 More Insights</h3></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=prem-nj&show_icons=true&theme=radical&hide_border=true&show=prs_merged,issues_closed,contribs" alt="Detailed Stats"/>
-  </p>
-</details>
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-## 📡 Let's Connect
-I'm always open to:
-- 🤝 **Collaborating on open-source or learning projects**
-- 💬 **Discussing DSA, code reviews, or new ideas**
-- 🌱 **Mentorship & knowledge sharing**
-- ✨ **Building something meaningful together**
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<h3>📊 Language Statistics</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prem-nj&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prem-nj&theme=radical" alt="Most Commit Language" />
+</p>
+
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prem-nj&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prem-nj&theme=radical" alt="Stats" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prem-navnath-jadhav/"><img src="https://img.shields.io/badge/LinkedIn-💼-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/PremNavnat56636"><img src="https://img.shields.io/badge/X-🐦-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="https://leetcode.com/u/premjadhav8/"><img src="https://img.shields.io/badge/LeetCode-🧠-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="mailto:premnavnathjadhav@example.com"><img src="https://img.shields.io/badge/Email-📧-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=prem-nj&show_icons=true&theme=radical&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-nj&theme=radical&hide_border=true&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" alt="Streak Stats" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prem-nj&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+</p>
+
+<h3>📈 Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-nj&theme=react-dark&hide_border=true&color=00FF7F&title_color=00FF7F&line_color=00FF7F&point_color=FFFFFF&area=true" alt="Activity Graph" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
+
+## 🧠 Coding Platforms
+
+<div align="center">
+
+### LeetCode
+<a href="https://leetcode.com/u/premjadhav8/">
+  <img src="https://leetcard.jacoblin.cool/premjadhav8?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+<div align="center">
+
+### 📊 Top Languages Overview
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prem-nj&color=00FF7F&style=flat-square" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-nj&layout=compact&theme=radical&hide_border=true&title_color=00FF7F&text_color=FFFFFF&bg_color=0D1117&langs_count=8" alt="Top Languages" height="180"/>
 </p>
-<p align="center" style="font-size: 0.8em; opacity: 0.7;">
-  Last rendered: 2026-05-17 | Last updated: May 17, 2026<br/>
-  Built with ❤️, ☕, and <code>git push</code>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+<div align="center">
+  <i>Building tomorrow's solutions, one commit at a time 🚀</i>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Last%20Updated-2026--05--17-00FF7F?style=for-the-badge&logo=github&logoColor=white" alt="Last Updated"/>
 </p>
