@@ -49,7 +49,7 @@
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,Redux,Material UI,Vite" />
 </p>
 
 ### Databases & Cloud
