@@ -43,23 +43,23 @@
 ## 🧰 Tech Stack
 
 ### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,java,cpp,html,css,sql" />
+<p align="center" style="margin: 8px 0;">
+  <img src="https://skillicons.dev/icons?i=javascript,java,cpp,html,css,sql&theme=dark&perline=6" style="margin: 4px;" />
 </p>
 
 ### Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,mui,vite" />
+<p align="center" style="margin: 8px 0;">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,mui,vite&theme=dark&perline=6" style="margin: 4px;" />
 </p>
 
 ### Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<p align="center" style="margin: 8px 0;">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark&perline=6" style="margin: 4px;" />
 </p>
 
 ### Tools & Design
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" />
+<p align="center" style="margin: 8px 0;">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion&theme=dark&perline=6" style="margin: 4px;" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
