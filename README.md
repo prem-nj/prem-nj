@@ -54,7 +54,7 @@
 
 ### Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb, Firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
 ### Tools & Design
