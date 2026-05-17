@@ -21,7 +21,7 @@
 - 🔭 Currently building **modern web applications** and solving DSA problems
 - 🌱 Learning more about **system design, backend architectures, and best practices**
 - 👯 Open to collaborating on **open-source, full-stack, and community projects**
-- 💬 Ask me about **JavaScript, React, Node.js, Python, and problem-solving**
+- 💬 Ask me about **JavaScript, React, Node.js, Java, C++, and problem-solving**
 - ⚡ Fun fact: I love turning complex problems into simple solutions
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -44,22 +44,22 @@
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=javascript,java,cpp,html,css,sql" />
 </p>
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
 ### Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,vercel" />
 </p>
 
-### Tools
+### Tools & Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,canva,notion" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
