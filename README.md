@@ -9,13 +9,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Timezone-🌐+IST+(UTC+5:30)-purple?style=for-the-badge"/></a>
 </p>
 
-<p align="center">
-  <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/prem-navnath-jadhav/"><img src="https://img.shields.io/badge/LinkedIn-💼-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/PremNavnat56636"><img src="https://img.shields.io/badge/X-🐦-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="https://leetcode.com/u/premjadhav8/"><img src="https://img.shields.io/badge/LeetCode-🧠-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="mailto:premnavnathjadhav@example.com"><img src="https://img.shields.io/badge/Email-📧-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+
 
 ---
 
